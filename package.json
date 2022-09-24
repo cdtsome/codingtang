@@ -1,0 +1,10 @@
+{
+  "name": "codingtang",
+  "bin": "./main.js",
+  "pkg": {
+    "assets": ["./crypt.wasm"]
+  },
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
