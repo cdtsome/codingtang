@@ -1,7 +1,0 @@
-{
-"name": "cdt_descrypt",
-"bin": "./main.js",
-"pkg": {
-  "assets": ["./crypt.wasm"]
- }
-}
